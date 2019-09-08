@@ -1,7 +1,7 @@
-## DEMO URL
+## Demo URL
 https://gni6fo.axshare.com/#id=al5rxq&p=home
 
-## VIDEO
+## Video
 https://youtu.be/b7F19bZR2EU
 
 ## Screenshots
