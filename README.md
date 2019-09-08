@@ -10,22 +10,24 @@ Over time, BI reports on usage statistics will show government agencies what are
 ## Data Story
 Sitting behind the scenes of MySALife is a collection of select datasets from sources such as ABS, ATO, Data.sa, [ACARA] (MySchool.edu), with emphasis on key factors that drive residency decisions. Some of these factors include:
 
-** Employment and business/industries **
+**Employment and business/industries**
 
 * Growth of positions/roles by area, small to large sized business growth etc
 * Primary industry of region, growth of specific industries etc
 * Distribution of part-time/full-time employment
 * Unemployment rate
-• Education
+
+**Education**
 * Distribution of public/private schools, number of pre, primary, and secondary schools, enrolment statistics per school, NAPLAN results available upon application
-• Healthcare
+
+**Healthcare**
 * Facilities available, coverage, local hospital(s) etc
 
-** Cost of living and housing **
+**Cost of living and housing**
 
 * Average mortgage repayments, median house prices etc
 
-** Quality of life/Environment **
+**Quality of life/Environment**
 
 * Air/water quality, crime rate statistics,
 * Average commute times etc
