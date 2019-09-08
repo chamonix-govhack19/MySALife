@@ -1,6 +1,10 @@
 ## DEMO URL
 https://gni6fo.axshare.com/#id=al5rxq&p=home
 
+## VIDEO
+https://youtu.be/b7F19bZR2EU
+
+## Screenshots
 ![image](https://user-images.githubusercontent.com/55040712/64484182-a68bb800-d24d-11e9-8390-a985cda39b4d.png)
 ![image](https://user-images.githubusercontent.com/55040712/64484181-a12e6d80-d24d-11e9-99f9-05dd0995faf5.png)
 
