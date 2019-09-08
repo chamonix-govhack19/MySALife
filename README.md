@@ -1,5 +1,5 @@
 ## DEMO URL
-[https://gni6fo.axshare.com/#id=al5rxq&p=home] (https://gni6fo.axshare.com/#id=al5rxq&p=home)
+https://gni6fo.axshare.com/#id=al5rxq&p=home
 
 ## Project Description
 Did you know that the Adelade metropolitan housing market can cost up to 56% more than regional areas [https://www.sa.gov.au](https://www.sa.gov.au)?
